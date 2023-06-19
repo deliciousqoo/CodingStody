@@ -24,5 +24,8 @@
     <ClCompile Include="20230619.cpp">
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
+    <ClCompile Include="20230620.cpp">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
