@@ -1,0 +1,18 @@
+﻿  20230619.cpp
+  20230620.cpp
+  20230621.cpp
+  20230622.cpp
+C:\Users\JIHAN\CodingStudy\Coding_Study\Coding_Study\20230622.cpp(38,32): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  20231017.cpp
+C:\Users\JIHAN\CodingStudy\Coding_Study\Coding_Study\20231017.cpp(38,32): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+20230620.obj : error LNK2005: "int __cdecl case1(void)" (?case1@@YAHXZ)이(가) 20230619.obj에 이미 정의되어 있습니다.
+20230620.obj : error LNK2005: "int __cdecl case2(void)" (?case2@@YAHXZ)이(가) 20230619.obj에 이미 정의되어 있습니다.
+20230620.obj : error LNK2005: "int __cdecl case3(void)" (?case3@@YAHXZ)이(가) 20230619.obj에 이미 정의되어 있습니다.
+20230620.obj : error LNK2005: "int __cdecl case4(void)" (?case4@@YAHXZ)이(가) 20230619.obj에 이미 정의되어 있습니다.
+20231017.obj : error LNK2005: "int __cdecl case1(int,int)" (?case1@@YAHHH@Z)이(가) 20230622.obj에 이미 정의되어 있습니다.
+20231017.obj : error LNK2005: "int __cdecl case2(int,int,int)" (?case2@@YAHHHH@Z)이(가) 20230622.obj에 이미 정의되어 있습니다.
+20231017.obj : error LNK2005: "int __cdecl case3(int)" (?case3@@YAHH@Z)이(가) 20230622.obj에 이미 정의되어 있습니다.
+20231017.obj : error LNK2005: "int __cdecl case4(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >,int,int)" (?case4@@YAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@0HH@Z)이(가) 20230622.obj에 이미 정의되어 있습니다.
+20231017.obj : error LNK2005: "int __cdecl case5(int,int,bool)" (?case5@@YAHHH_N@Z)이(가) 20230622.obj에 이미 정의되어 있습니다.
+C:\Users\JIHAN\CodingStudy\Coding_Study\x64\Debug\Coding_Study.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
