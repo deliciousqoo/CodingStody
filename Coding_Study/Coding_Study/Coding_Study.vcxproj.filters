@@ -45,5 +45,8 @@
     <ClCompile Include="20240105.cpp">
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
+    <ClCompile Include="20240106.cpp">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
