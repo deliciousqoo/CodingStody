@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\Algorithm">
       <UniqueIdentifier>{1f9dd22c-42f5-4d19-9bd0-ef57fbe43b4e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Algorithm\DFS">
+      <UniqueIdentifier>{0f46e13c-700a-495e-a18a-c4299b198ca6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -56,6 +59,21 @@
     </ClCompile>
     <ClCompile Include="20240109.cpp">
       <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11724.cpp">
+      <Filter>소스 파일\Algorithm\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="20240110.cpp">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2023.cpp">
+      <Filter>소스 파일\Algorithm\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_13023.cpp">
+      <Filter>소스 파일\Algorithm\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_dfs_1.cpp">
+      <Filter>소스 파일\Algorithm\DFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
