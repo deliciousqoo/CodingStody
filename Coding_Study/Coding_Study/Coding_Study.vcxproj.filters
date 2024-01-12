@@ -75,5 +75,17 @@
     <ClCompile Include="pg_dfs_1.cpp">
       <Filter>소스 파일\Algorithm\DFS</Filter>
     </ClCompile>
+    <ClCompile Include="pg_dfs_2.cpp">
+      <Filter>소스 파일\Algorithm\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="20240111.cpp">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_dfs_3.cpp">
+      <Filter>소스 파일\Algorithm\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="20240112.cpp">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
