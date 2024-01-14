@@ -87,5 +87,8 @@
     <ClCompile Include="20240112.cpp">
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
+    <ClCompile Include="20240114.cpp">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
