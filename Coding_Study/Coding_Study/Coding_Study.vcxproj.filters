@@ -22,6 +22,9 @@
     <Filter Include="소스 파일\Algorithm\DFS">
       <UniqueIdentifier>{0f46e13c-700a-495e-a18a-c4299b198ca6}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Algorithm\BFS">
+      <UniqueIdentifier>{aff73b78-d9b7-4356-935c-b57238ca3c4a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -88,6 +91,21 @@
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
     <ClCompile Include="20240114.cpp">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
+    <ClCompile Include="bj1260.cpp">
+      <Filter>소스 파일\Algorithm\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="bj2178.cpp">
+      <Filter>소스 파일\Algorithm\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="bj1167.cpp">
+      <Filter>소스 파일\Algorithm\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_bfs_1.cpp">
+      <Filter>소스 파일\Algorithm\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="20240115.cpp">
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
   </ItemGroup>
