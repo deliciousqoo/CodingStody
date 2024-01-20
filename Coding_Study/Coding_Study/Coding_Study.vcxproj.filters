@@ -117,5 +117,14 @@
     <ClCompile Include="pg_dfs_5.cpp">
       <Filter>소스 파일\Algorithm\DFS</Filter>
     </ClCompile>
+    <ClCompile Include="20240117.cpp">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
+    <ClCompile Include="20240119.cpp">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
+    <ClCompile Include="20240120.cpp">
+      <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

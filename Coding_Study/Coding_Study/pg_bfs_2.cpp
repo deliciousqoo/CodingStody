@@ -55,24 +55,36 @@ int main() {
                                     , { 2, 2, 4, 9 }
                                     , { 3, 6, 9, 8 }
                                     , { 6, 3, 7, 7 } };
+
     int characterX = 9;
     int characterY = 7;
     int itemX = 6;
     int itemY = 1;
     for (int i = 0; i < rectangle.size(); i++) {
-        for (int y = rectangle[i][1] * 2; y <= rectangle[i][3] * 2; y++) {
-            for (int x = rectangle[i][0] * 2; x <= rectangle[i][2] * 2; x++) {
+        for (int y = rectangle[i][1]; y <= rectangle[i][3]; y++) {
+            for (int x = rectangle[i][0]; x <= rectangle[i][2]; x++) {
                 maze[y][x] = 1;
             }
         }
     }
     
-    for (int i = 1; i < 101; i++) {
-        for (int j = 1; j < 101; j++) {
+    for (int i = 1; i < 51; i++) {
+        for (int j = 1; j < 51; j++) {
             visited[i][j] = checkOutline(j, i);
         }
     }
 
+    for (int i = 1; i < 51; i++) {
+        for (int j = 1; j < 51; j++) {
+            cout << visited[i][j] << " ";
+        }
+        cout << endl;
+    }
+
+    
+
+
+    /*
     BFS(characterX*2, characterY*2);
 
     cout << endl;
@@ -85,6 +97,7 @@ int main() {
 
 
     cout << maze[itemY*2][itemX*2];
+    */
 
     return answer;
 }
