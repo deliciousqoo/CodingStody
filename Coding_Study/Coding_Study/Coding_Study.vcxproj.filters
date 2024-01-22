@@ -25,6 +25,12 @@
     <Filter Include="소스 파일\Algorithm\BFS">
       <UniqueIdentifier>{aff73b78-d9b7-4356-935c-b57238ca3c4a}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Algorithm\Dijkstra">
+      <UniqueIdentifier>{59a8eee1-f2ce-44d4-b9df-1cc8758dac5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ETC">
+      <UniqueIdentifier>{f32c4f14-d5f5-43c2-b4c8-e2c21d79e795}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -131,6 +137,18 @@
     </ClCompile>
     <ClCompile Include="20240122.cpp">
       <Filter>소스 파일\HomeWork</Filter>
+    </ClCompile>
+    <ClCompile Include="bj1753.cpp">
+      <Filter>소스 파일\Algorithm\Dijkstra</Filter>
+    </ClCompile>
+    <ClCompile Include="bj1916.cpp">
+      <Filter>소스 파일\Algorithm\Dijkstra</Filter>
+    </ClCompile>
+    <ClCompile Include="CompareResizeFill.cpp">
+      <Filter>소스 파일\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="bj1854.cpp">
+      <Filter>소스 파일\Algorithm\Dijkstra</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
