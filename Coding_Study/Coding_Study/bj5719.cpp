@@ -7,7 +7,6 @@
 using namespace std;
 
 typedef pair<int, int> edge;
-
 vector<vector<edge>> mlist;
 vector<int> mdistance;
 vector<bool> visited;
@@ -33,24 +32,53 @@ void dijkstra(int start) {
 			int next = temp.first;
 			int value = temp.second;
 
+			if (mdistance[next] > value + mdistance[cv]) {
+				mdistance[next] = value + mdistance[cv];
+				pq.push(make_pair(mdistance[next], next));
+
+				route[next].clear();
+				route[next].push_back(make_pair(cv, next));
+			}
+			else if (mdistance[next] == value + mdistance[cv]) {
+				route[next].push_back(make_pair(cv, next));
+			}
+		}
+	}
+}
+
+void dijkstra_deleted(int start) {
+	pq.push(make_pair(0, start));
+	mdistance[start] = 0;
+
+	while (!pq.empty()) {
+		edge current = pq.top();
+		pq.pop();
+		int cv = current.second;
+
+		if (current.first > mdistance[cv]) continue;
+		if (visited[cv]) continue;
+		visited[cv] = true;
+
+		for (int i = 0; i < mlist[cv].size(); i++) {
+			edge temp = mlist[cv][i];
+			int next = temp.first;
+			int value = temp.second;
+
 			if (deleted_check[cv][next]) continue;
 
 			if (mdistance[next] > value + mdistance[cv]) {
 				mdistance[next] = value + mdistance[cv];
 				pq.push(make_pair(mdistance[next], next));
-				route[next].clear();
-				for (int j = 0; j < route[cv].size(); j++) {
-					route[next].push_back(route[cv][j]);
-				}
-				route[next].push_back(make_pair(cv, next));
-			}
-			else if (mdistance[next] == value + mdistance[cv]) {
-				for (int j = 0; j < route[cv].size(); j++) {
-					route[next].push_back(route[cv][j]);
-				}
-				route[next].push_back(make_pair(cv, next));
 			}
 		}
+	}
+}
+
+void DFS(int now) {
+	for (edge i : route[now]) {
+		if (deleted_check[i.first][i.second]) return;
+		deleted_check[i.first][i.second] = true;
+		DFS(i.first);
 	}
 }
 
@@ -75,15 +103,11 @@ int main() {
 		}
 
 		dijkstra(S);
-
-		for (int i = 0; i < route[D].size(); i++) {
-			//cout << "(" << route[D][i].first << ", " << route[D][i].second << ")" << endl;
-			deleted_check[route[D][i].first][route[D][i].second] = true;
-		}
+		DFS(D);
 
 		fill(visited.begin(), visited.end(), false);
 		fill(mdistance.begin(), mdistance.end(), INT_MAX);
-		dijkstra(S);
+		dijkstra_deleted(S);
 
 		if (mdistance[D] != INT_MAX) cout << mdistance[D] << '\n';
 		else cout << "-1" << '\n';
@@ -93,7 +117,6 @@ int main() {
 		visited.clear();
 		mlist.clear();
 		route.clear();
-
 	}
 
 	return 0;
