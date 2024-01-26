@@ -16,7 +16,7 @@ int main() {
 	cin >> N;
 
 	start = clock();
-	test2.resize(N + 1);
+	test2.resize(N + 1);0
 	fill(test2.begin(), test2.end(), 0);
 	end = clock();
 
