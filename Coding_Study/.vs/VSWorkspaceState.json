@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Debug"
+    "\\Coding_Study",
+    "\\Coding_Study\\Algorithm",
+    "\\Coding_Study\\Algorithm\\BFS",
+    "\\Coding_Study\\Algorithm\\DFS",
+    "\\Coding_Study\\Algorithm\\Dijkstra"
   ],
-  "SelectedNode": "\\Coding_Study.sln",
+  "SelectedNode": "\\Coding_Study",
   "PreviewInSolutionExplorer": false
 }

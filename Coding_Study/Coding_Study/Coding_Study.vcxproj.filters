@@ -31,6 +31,15 @@
     <Filter Include="소스 파일\ETC">
       <UniqueIdentifier>{f32c4f14-d5f5-43c2-b4c8-e2c21d79e795}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\DataStructure">
+      <UniqueIdentifier>{371cdf73-3cb5-4dce-b0d8-8fe2ba4e0152}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DataStructure\Stack">
+      <UniqueIdentifier>{dfae042f-2914-456a-846e-28b79934a00e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DataStructure\Queue">
+      <UniqueIdentifier>{c71b007c-a6a9-43aa-9f32-68ef0cc93ed1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -152,6 +161,18 @@
     </ClCompile>
     <ClCompile Include="bj5719.cpp">
       <Filter>소스 파일\Algorithm\Dijkstra</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1874.cpp">
+      <Filter>소스 파일\DataStructure\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_17298.cpp">
+      <Filter>소스 파일\DataStructure\Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2164.cpp">
+      <Filter>소스 파일\DataStructure\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11286.cpp">
+      <Filter>소스 파일\DataStructure\Queue</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

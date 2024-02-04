@@ -1,3 +1,8 @@
+/*
+* 백준5719 거의 최단 경로
+* 다익스트라 알고리즘
+* 20240125
+*/
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -32,6 +37,8 @@ void dijkstra(int start) {
 			int next = temp.first;
 			int value = temp.second;
 
+			if (deleted_check[cv][next]) continue;
+
 			if (mdistance[next] > value + mdistance[cv]) {
 				mdistance[next] = value + mdistance[cv];
 				pq.push(make_pair(mdistance[next], next));
@@ -41,34 +48,6 @@ void dijkstra(int start) {
 			}
 			else if (mdistance[next] == value + mdistance[cv]) {
 				route[next].push_back(make_pair(cv, next));
-			}
-		}
-	}
-}
-
-void dijkstra_deleted(int start) {
-	pq.push(make_pair(0, start));
-	mdistance[start] = 0;
-
-	while (!pq.empty()) {
-		edge current = pq.top();
-		pq.pop();
-		int cv = current.second;
-
-		if (current.first > mdistance[cv]) continue;
-		if (visited[cv]) continue;
-		visited[cv] = true;
-
-		for (int i = 0; i < mlist[cv].size(); i++) {
-			edge temp = mlist[cv][i];
-			int next = temp.first;
-			int value = temp.second;
-
-			if (deleted_check[cv][next]) continue;
-
-			if (mdistance[next] > value + mdistance[cv]) {
-				mdistance[next] = value + mdistance[cv];
-				pq.push(make_pair(mdistance[next], next));
 			}
 		}
 	}
@@ -107,7 +86,7 @@ int main() {
 
 		fill(visited.begin(), visited.end(), false);
 		fill(mdistance.begin(), mdistance.end(), INT_MAX);
-		dijkstra_deleted(S);
+		dijkstra(S);
 
 		if (mdistance[D] != INT_MAX) cout << mdistance[D] << '\n';
 		else cout << "-1" << '\n';
