@@ -1,8 +1,3 @@
-/*
-* 백준5719 거의 최단 경로
-* 다익스트라 알고리즘
-* 20240124
-*/
 #include <iostream>
 #include <vector>
 #include <queue>
