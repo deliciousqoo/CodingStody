@@ -174,5 +174,17 @@
     <ClCompile Include="bj_11286.cpp">
       <Filter>소스 파일\DataStructure\Queue</Filter>
     </ClCompile>
+    <ClCompile Include="pg_queue_1.cpp">
+      <Filter>소스 파일\DataStructure\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_queue_2.cpp">
+      <Filter>소스 파일\DataStructure\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_queue_3.cpp">
+      <Filter>소스 파일\DataStructure\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_queue_4.cpp">
+      <Filter>소스 파일\DataStructure\Queue</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
