@@ -40,6 +40,9 @@
     <Filter Include="소스 파일\DataStructure\Queue">
       <UniqueIdentifier>{c71b007c-a6a9-43aa-9f32-68ef0cc93ed1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Algorithm\Sort">
+      <UniqueIdentifier>{3f29af0e-c0a6-4bd5-a9b9-c925096af134}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -185,6 +188,24 @@
     </ClCompile>
     <ClCompile Include="pg_queue_4.cpp">
       <Filter>소스 파일\DataStructure\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_queue_5.cpp">
+      <Filter>소스 파일\DataStructure\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_queue_6.cpp">
+      <Filter>소스 파일\DataStructure\Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2750.cpp">
+      <Filter>소스 파일\Algorithm\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1377.cpp">
+      <Filter>소스 파일\Algorithm\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1427.cpp">
+      <Filter>소스 파일\Algorithm\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11399.cpp">
+      <Filter>소스 파일\Algorithm\Sort</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
