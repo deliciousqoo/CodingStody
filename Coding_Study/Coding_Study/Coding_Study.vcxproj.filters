@@ -67,6 +67,9 @@
     <Filter Include="소스 파일\ETC\LevelStage\Level7">
       <UniqueIdentifier>{46d9971a-15d7-4d9e-b68a-c405b8cb1c36}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ETC\LevelStage\Level8">
+      <UniqueIdentifier>{aacda91a-80b5-4964-80e0-df9379fcef48}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -338,6 +341,15 @@
     </ClCompile>
     <ClCompile Include="bj_2563.cpp">
       <Filter>소스 파일\ETC\LevelStage\Level7</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2745.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level8</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11005.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level8</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2720.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level8</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
