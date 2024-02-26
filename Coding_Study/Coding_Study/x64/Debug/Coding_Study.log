@@ -1,6 +1,2 @@
-﻿  bj_11005.cpp
-C:\Users\JIHAN\CodingStudy\Coding_Study\Coding_Study\bj_11005.cpp(30,12): warning C4244: '=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-C:\Users\JIHAN\CodingStudy\Coding_Study\Coding_Study\bj_11005.cpp(32,25): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
-C:\Users\JIHAN\CodingStudy\Coding_Study\Coding_Study\bj_11005.cpp(33,15): warning C4477: 'printf' : 서식 문자열 '%c'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 '__int64'입니다.
-C:\Users\JIHAN\CodingStudy\Coding_Study\Coding_Study\bj_11005.cpp(35,24): warning C4244: '-=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+﻿  bj_5073.cpp
   Coding_Study.vcxproj -> C:\Users\JIHAN\CodingStudy\Coding_Study\x64\Debug\Coding_Study.exe
