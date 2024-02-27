@@ -5,18 +5,28 @@
 */
 #include <iostream>
 #include <vector>
+#include <algorithm>
 
 using namespace std;
 
 int main() {
 
 	int A, B, C;
+	vector<int> arr;
+
 	cin >> A >> B >> C;
 
-	if (A == 60 && B == 60 && C == 60) cout << "Equilateral" << "\n";
-	else if (A + B + C == 180) {
-		if (A != B && B != C && C != A) cout << "Scalene" << "\n";
-		else cout << "Isosceles" << "\n";
+	arr.push_back(A);
+	arr.push_back(B);
+	arr.push_back(C);
+
+	sort(arr.begin(), arr.end(), greater<>());
+
+	while (arr[0] >= arr[1] + arr[2]) {
+		arr[0]--;
 	}
-	else cout << "Error" << "\n";
+
+	cout << arr[0] + arr[1] + arr[2];
+
+	return  0;
 }
