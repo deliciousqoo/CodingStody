@@ -82,6 +82,18 @@
     <Filter Include="소스 파일\ETC\LevelStage\Level12">
       <UniqueIdentifier>{9ceaf123-56a7-469e-a774-a53d83e82447}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ETC\LevelStage\Level13">
+      <UniqueIdentifier>{b60594c5-fbb8-411f-873c-25a19cbd8134}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ETC\LevelStage\Level14">
+      <UniqueIdentifier>{e5ff276f-a819-4a09-bcef-79ff40f49a6e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DataStructure\Tree">
+      <UniqueIdentifier>{28e2dd4c-0195-4752-be77-7bb049ac941c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DataStructure\Tree\NewFilter1">
+      <UniqueIdentifier>{c94d9d6b-2199-4f23-9ce9-e3e9bd677dc3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -416,6 +428,27 @@
     </ClCompile>
     <ClCompile Include="bj_2231.cpp">
       <Filter>소스 파일\ETC\LevelStage\Level12</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_19532.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level12</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1018.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level12</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1436.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level12</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2587.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level13</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_25305.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level13</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11651.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level13</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_14425.cpp">
+      <Filter>소스 파일\DataStructure\Tree</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
