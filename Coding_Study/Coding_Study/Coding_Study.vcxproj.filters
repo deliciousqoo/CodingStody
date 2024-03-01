@@ -91,8 +91,8 @@
     <Filter Include="소스 파일\DataStructure\Tree">
       <UniqueIdentifier>{28e2dd4c-0195-4752-be77-7bb049ac941c}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\DataStructure\Tree\NewFilter1">
-      <UniqueIdentifier>{c94d9d6b-2199-4f23-9ce9-e3e9bd677dc3}</UniqueIdentifier>
+    <Filter Include="소스 파일\ETC\LevelStage\Level35">
+      <UniqueIdentifier>{a7cf89ff-e9f8-4043-8b1e-35bb8f7eae31}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -449,6 +449,18 @@
     </ClCompile>
     <ClCompile Include="bj_14425.cpp">
       <Filter>소스 파일\DataStructure\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11725.cpp">
+      <Filter>소스 파일\DataStructure\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1068.cpp">
+      <Filter>소스 파일\DataStructure\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1991.cpp">
+      <Filter>소스 파일\DataStructure\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1967.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level35</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
