@@ -462,5 +462,11 @@
     <ClCompile Include="bj_1967.cpp">
       <Filter>소스 파일\ETC\LevelStage\Level35</Filter>
     </ClCompile>
+    <ClCompile Include="bj_2263.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level35</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_5639.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level35</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
