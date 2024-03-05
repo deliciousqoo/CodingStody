@@ -1,10 +1,11 @@
 /*
-* 백준4803 트리
+* 백준2263 트리의 순회
 * 트리
-* 20240303
+* 20240305
 */
 #include <iostream>
 #include <vector>
+#include <queue>
 
 using namespace std;
 
@@ -12,17 +13,25 @@ vector<vector<int>> tree;
 vector<bool> visited;
 bool check;
 
-void DFS(int now) {
-	if (visited[now]) return;
-	visited[now] = true;
+int node_count, edge_count;
 
-	for (int i : tree[now]) {
-		if (!visited[i]) {
-			DFS(i);
-		}
-		else
-		{
-			check = true;
+void BFS(int now) {
+	queue<int> myQueue;
+	myQueue.push(now);
+	visited[now] = true;
+	node_count++;
+
+	while (!myQueue.empty()) {
+		int temp = myQueue.front();
+		myQueue.pop();
+
+		edge_count += tree[temp].size();
+		for (int i : tree[temp]) {
+			if (!visited[i]) {
+				visited[i] = true;
+				myQueue.push(i);
+				node_count++;
+			}
 		}
 	}
 }
@@ -41,19 +50,20 @@ int main() {
 		for (int i = 0; i < m; i++) {
 			cin >> u >> v;
 			tree[u].push_back(v);
+			tree[v].push_back(u);
 		}
 
 		int tree_count = 0;
 		for (int i = 1; i <= n; i++) {
+			node_count = 0;
+			edge_count = 0;
 			if (!visited[i]) {
-				check = false;
-				DFS(i);
-				if (check == true) tree_count--;
-				else tree_count++;
+				BFS(i);
+				if (node_count - edge_count / 2 == 1) tree_count++;
 			}
 		}
 
-		if (tree_count <= 0) {
+		if (tree_count == 0) {
 			printf("Case %d: No trees.\n", index);
 		}
 		else if (tree_count == 1) {
@@ -61,9 +71,10 @@ int main() {
 		}
 		else
 		{
-			printf("Case %d: A forest of %d trees\n", index, tree_count);
+			printf("Case %d: A forest of %d trees.\n", index, tree_count);
 		}
 
+		index++;
 		tree.clear();
 		visited.clear();
 	}
