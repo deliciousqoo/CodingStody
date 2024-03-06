@@ -19,12 +19,6 @@
     <Filter Include="소스 파일\Algorithm">
       <UniqueIdentifier>{1f9dd22c-42f5-4d19-9bd0-ef57fbe43b4e}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\Algorithm\DFS">
-      <UniqueIdentifier>{0f46e13c-700a-495e-a18a-c4299b198ca6}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="소스 파일\Algorithm\BFS">
-      <UniqueIdentifier>{aff73b78-d9b7-4356-935c-b57238ca3c4a}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\Algorithm\Dijkstra">
       <UniqueIdentifier>{59a8eee1-f2ce-44d4-b9df-1cc8758dac5b}</UniqueIdentifier>
     </Filter>
@@ -94,6 +88,18 @@
     <Filter Include="소스 파일\ETC\LevelStage\Level35">
       <UniqueIdentifier>{a7cf89ff-e9f8-4043-8b1e-35bb8f7eae31}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Algorithm\Search">
+      <UniqueIdentifier>{110ec773-a05b-4bb6-b1c1-1c4ee506e29e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Algorithm\Search\BFS">
+      <UniqueIdentifier>{aff73b78-d9b7-4356-935c-b57238ca3c4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Algorithm\Search\DFS">
+      <UniqueIdentifier>{0f46e13c-700a-495e-a18a-c4299b198ca6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Algorithm\Search\BinarySearch">
+      <UniqueIdentifier>{9a6ccf49-4527-4141-9c87-13b318bbdc56}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -133,28 +139,28 @@
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
     <ClCompile Include="bj_11724.cpp">
-      <Filter>소스 파일\Algorithm\DFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
     </ClCompile>
     <ClCompile Include="20240110.cpp">
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
     <ClCompile Include="bj_2023.cpp">
-      <Filter>소스 파일\Algorithm\DFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
     </ClCompile>
     <ClCompile Include="bj_13023.cpp">
-      <Filter>소스 파일\Algorithm\DFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
     </ClCompile>
     <ClCompile Include="pg_dfs_1.cpp">
-      <Filter>소스 파일\Algorithm\DFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
     </ClCompile>
     <ClCompile Include="pg_dfs_2.cpp">
-      <Filter>소스 파일\Algorithm\DFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
     </ClCompile>
     <ClCompile Include="20240111.cpp">
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
     <ClCompile Include="pg_dfs_3.cpp">
-      <Filter>소스 파일\Algorithm\DFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
     </ClCompile>
     <ClCompile Include="20240112.cpp">
       <Filter>소스 파일\HomeWork</Filter>
@@ -163,28 +169,28 @@
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
     <ClCompile Include="bj1260.cpp">
-      <Filter>소스 파일\Algorithm\BFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
     <ClCompile Include="bj2178.cpp">
-      <Filter>소스 파일\Algorithm\BFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
     <ClCompile Include="bj1167.cpp">
-      <Filter>소스 파일\Algorithm\BFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
     <ClCompile Include="pg_bfs_1.cpp">
-      <Filter>소스 파일\Algorithm\BFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
     <ClCompile Include="20240115.cpp">
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
     <ClCompile Include="pg_dfs_4.cpp">
-      <Filter>소스 파일\Algorithm\DFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
     </ClCompile>
     <ClCompile Include="pg_bfs_2.cpp">
-      <Filter>소스 파일\Algorithm\BFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
     <ClCompile Include="pg_dfs_5.cpp">
-      <Filter>소스 파일\Algorithm\DFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
     </ClCompile>
     <ClCompile Include="20240117.cpp">
       <Filter>소스 파일\HomeWork</Filter>
@@ -286,7 +292,7 @@
       <Filter>소스 파일\Algorithm\Sort</Filter>
     </ClCompile>
     <ClCompile Include="bj_10026.cpp">
-      <Filter>소스 파일\Algorithm\DFS</Filter>
+      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
     </ClCompile>
     <ClCompile Include="bj_13549.cpp">
       <Filter>소스 파일\Algorithm\Dijkstra</Filter>
@@ -470,6 +476,12 @@
     </ClCompile>
     <ClCompile Include="bj_4803.cpp">
       <Filter>소스 파일\ETC\LevelStage\Level35</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1920.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2343.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
