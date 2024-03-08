@@ -489,5 +489,8 @@
     <ClCompile Include="bj_10816.cpp">
       <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
     </ClCompile>
+    <ClCompile Include="bj_2110.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
