@@ -168,13 +168,13 @@
     <ClCompile Include="20240114.cpp">
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
-    <ClCompile Include="bj1260.cpp">
+    <ClCompile Include="bj_1260.cpp">
       <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
-    <ClCompile Include="bj2178.cpp">
+    <ClCompile Include="bj_2178.cpp">
       <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
-    <ClCompile Include="bj1167.cpp">
+    <ClCompile Include="bj_1167.cpp">
       <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
     <ClCompile Include="pg_bfs_1.cpp">
@@ -207,19 +207,19 @@
     <ClCompile Include="20240122.cpp">
       <Filter>소스 파일\HomeWork</Filter>
     </ClCompile>
-    <ClCompile Include="bj1753.cpp">
+    <ClCompile Include="bj_1753.cpp">
       <Filter>소스 파일\Algorithm\Dijkstra</Filter>
     </ClCompile>
-    <ClCompile Include="bj1916.cpp">
+    <ClCompile Include="bj_1916.cpp">
       <Filter>소스 파일\Algorithm\Dijkstra</Filter>
     </ClCompile>
     <ClCompile Include="CompareResizeFill.cpp">
       <Filter>소스 파일\ETC</Filter>
     </ClCompile>
-    <ClCompile Include="bj1854.cpp">
+    <ClCompile Include="bj_1854.cpp">
       <Filter>소스 파일\Algorithm\Dijkstra</Filter>
     </ClCompile>
-    <ClCompile Include="bj5719.cpp">
+    <ClCompile Include="bj_5719.cpp">
       <Filter>소스 파일\Algorithm\Dijkstra</Filter>
     </ClCompile>
     <ClCompile Include="bj_1874.cpp">
