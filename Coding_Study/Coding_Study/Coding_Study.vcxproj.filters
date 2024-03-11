@@ -100,6 +100,9 @@
     <Filter Include="소스 파일\Algorithm\Search\BinarySearch">
       <UniqueIdentifier>{9a6ccf49-4527-4141-9c87-13b318bbdc56}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Algorithm\DP">
+      <UniqueIdentifier>{e78d2e44-cf5a-468f-9539-cb1c42afb465}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -491,6 +494,30 @@
     </ClCompile>
     <ClCompile Include="bj_2110.cpp">
       <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_12015.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2747.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1463.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_14501.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2193.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11726.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_10844.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_13398.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
