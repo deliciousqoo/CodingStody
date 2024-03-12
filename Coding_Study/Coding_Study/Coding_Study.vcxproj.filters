@@ -519,5 +519,11 @@
     <ClCompile Include="bj_13398.cpp">
       <Filter>소스 파일\Algorithm\DP</Filter>
     </ClCompile>
+    <ClCompile Include="bj_9252.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_dp_1.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
