@@ -525,5 +525,23 @@
     <ClCompile Include="pg_dp_1.cpp">
       <Filter>소스 파일\Algorithm\DP</Filter>
     </ClCompile>
+    <ClCompile Include="pg_dp_2.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_dp_3.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_tree_1.cpp">
+      <Filter>소스 파일\DataStructure\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_dfs_6.cpp">
+      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_etc_1.cpp">
+      <Filter>소스 파일\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_dijkstra_1.cpp">
+      <Filter>소스 파일\Algorithm\Dijkstra</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

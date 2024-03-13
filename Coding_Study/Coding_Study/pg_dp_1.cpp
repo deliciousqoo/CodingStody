@@ -1,64 +1,55 @@
+/*
+* 프로그래머스 N으로 표현
+* 동적계획법
+* 20240313
+*/
 #include <string>
 #include <vector>
 #include <math.h>
 #include <limits.h>
 #include <iostream>
+#include <set>
 
 using namespace std;
 
 vector<int> D;
-vector<int> arr;
+vector<set<long long>> arr;
 
-
-void DP(int N, int num, int count) {
-    if (count > 8) return;
-    cout << N << " " << num << endl;
-
-    if (num + N <= 32000 && num + N >= 0) {
-        D[num + N] = min(D[num + N], D[num] + D[N]);
-        DP(N, num + N, D[num+N] + count);
-    }
-
-    if (num * N <= 32000 && num * N >= 0) {
-        D[num * N] = min(D[num * N], D[num] + D[N]);
-        DP(N, num * N, D[num * N] + count);
-    }
-
-    if (num - N <= 32000 && num - N >= 0) {
-        D[num - N] = min(D[num - N], D[num] + D[N]);
-        DP(N, num - N, D[num - N] + count);
-    }
-
-    if (num / N <= 32000 && num / N >= 0) {
-        D[num / N] = min(D[num / N], D[num] + D[N]);
-        DP(N, num / N, D[num / N] + count);
-    }
-}
-
-
-int main() {
-    int N = 5;
-    int number = 26;
+int solution(int N, int number) {
+    int answer = 0;
 
     D.resize(32001, INT_MAX);
+    arr.resize(9);
 
     string temp;
-    for (int i = 0; i < 5; i++) {
+    for (int i = 1; i <= 8; i++) {
         temp = "";
-        for (int j = 0; j <= i; j++) temp.push_back(N + '0');
-        if (stoi(temp) <= 32000) {
-            arr.push_back(stoi(temp));
-            D[stoi(temp)] = i + 1;
-        }
+        for (int j = 1; j <= i; j++) temp.push_back(N + '0');
+        arr[i].insert(stoi(temp));
+        if (stoi(temp) <= 32000) D[stoi(temp)] = i;
     }
-    
-    for (int i = 0; i < arr.size(); i++) {
-        for (int j = 0; j < arr.size(); j++) {
-            DP(arr[i], arr[j], to_string(arr[i]).length());
+
+    for (int i = 2; i <= 8; i++) {
+        for (int j = 1; j < i; j++) {
+            for (int a : arr[j]) {
+                for (int b : arr[i - j]) {
+                    arr[i].insert(a + b);
+                    if (a + b >= 0 && a + b <= 32000) D[a + b] = min(D[a + b], i);
+                    arr[i].insert(a - b);
+                    if (a - b >= 0 && a - b <= 32000) D[a - b] = min(D[a - b], i);
+                    arr[i].insert(a * b);
+                    if (a * b >= 0 && a * b <= 32000) D[a * b] = min(D[a * b], i);
+                    if (b > 0) {
+                        arr[i].insert(a / b);
+                        if (a / b >= 0 && a / b <= 32000) D[a / b] = min(D[a / b], i);
+                    }
+                }
+            }
         }
     }
 
-    cout << D[number];
+    answer = D[number];
+    if (D[number] > 8) answer = -1;
 
-    return 0;
+    return answer;
 }
