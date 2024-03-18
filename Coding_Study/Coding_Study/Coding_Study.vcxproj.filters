@@ -103,6 +103,9 @@
     <Filter Include="소스 파일\Algorithm\DP">
       <UniqueIdentifier>{e78d2e44-cf5a-468f-9539-cb1c42afb465}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ETC\LevelStage\Level16">
+      <UniqueIdentifier>{c35d6b33-a6a4-4611-8743-cc74bb74595b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -542,6 +545,12 @@
     </ClCompile>
     <ClCompile Include="pg_dijkstra_1.cpp">
       <Filter>소스 파일\Algorithm\Dijkstra</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_28278.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level16</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_4949.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level16</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
