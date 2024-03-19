@@ -29,14 +29,14 @@ int main() {
 				myStack.push(1);
 			}
 			else if (input[i] == ']') {
-				if (myStack.empty()) myStack.push(3);
+				if (myStack.empty() || myStack.top() != 1) myStack.push(3);
 				else if (myStack.top() == 1) myStack.pop();
 			}
 			else if (input[i] == '(') {
 				myStack.push(2);
 			}
 			else if (input[i] == ')') {
-				if (myStack.empty()) myStack.push(4);
+				if (myStack.empty() || myStack.top() != 2) myStack.push(4);
 				else if (myStack.top() == 2) myStack.pop();
 			}
 		}
