@@ -1,10 +1,9 @@
 /*
 * 백준4949 균형잡힌 세상
-* 자료구조 - 스택
+* 스택, 큐, 덱
 * 20240318
 */
 #include <iostream>
-#include <vector>
 #include <stack>
 #include <string>
 

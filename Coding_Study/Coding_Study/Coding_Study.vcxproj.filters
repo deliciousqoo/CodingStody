@@ -552,5 +552,23 @@
     <ClCompile Include="bj_4949.cpp">
       <Filter>소스 파일\ETC\LevelStage\Level16</Filter>
     </ClCompile>
+    <ClCompile Include="bj_12789.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level16</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_18258.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level16</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11866.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level16</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_28279.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level16</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2346.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level16</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_24511.cpp">
+      <Filter>소스 파일\ETC\LevelStage\Level16</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
