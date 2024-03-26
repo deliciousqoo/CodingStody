@@ -8,7 +8,7 @@
 #include <queue>
 
 using namespace std;
-queue<int> myQueue;
+queue<int> myDeque;
 vector<int> arr;
 
 int main() {
@@ -21,20 +21,20 @@ int main() {
 	cin >> N >> K;
 
 	for (int i = 1; i <= N; i++) {
-		myQueue.push(i);
+		myDeque.push(i);
 	}
 
 	int count = 1;
-	while (!myQueue.empty()) {
+	while (!myDeque.empty()) {
 		if (count == K) {
-			arr.push_back(myQueue.front());
-			myQueue.pop();
+			arr.push_back(myDeque.front());
+			myDeque.pop();
 			count = 1;
 		}
 		else
 		{
-			myQueue.push(myQueue.front());
-			myQueue.pop();
+			myDeque.push(myDeque.front());
+			myDeque.pop();
 			count++;
 		}
 	}

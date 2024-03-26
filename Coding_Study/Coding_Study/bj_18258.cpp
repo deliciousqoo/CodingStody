@@ -7,7 +7,7 @@
 #include <queue>
 
 using namespace std;
-queue<int> myQueue;
+queue<int> myDeque;
 
 int main() {
 
