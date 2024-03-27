@@ -504,9 +504,6 @@
     <ClCompile Include="bj_2110.cpp">
       <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
     </ClCompile>
-    <ClCompile Include="bj_12015.cpp">
-      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
-    </ClCompile>
     <ClCompile Include="bj_2747.cpp">
       <Filter>소스 파일\Algorithm\DP</Filter>
     </ClCompile>
@@ -584,6 +581,12 @@
     </ClCompile>
     <ClCompile Include="bj_24416.cpp">
       <Filter>소스 파일\ETC\LevelStage\Level23</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11722.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_12015.cpp">
+      <Filter>소스 파일\Algorithm\DP</Filter>
     </ClCompile>
     <ClCompile Include="bj_11053.cpp">
       <Filter>소스 파일\Algorithm\DP</Filter>
