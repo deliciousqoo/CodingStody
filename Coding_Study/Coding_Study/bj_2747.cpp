@@ -10,8 +10,8 @@ using namespace std;
 
 vector<int> arr;
 
-/*
-* 바텀업 방식
+
+//바텀업 방식
 int main() {
 
 	int n;
@@ -29,10 +29,10 @@ int main() {
 	cout << arr[n];
 
 	return 0;
-}*/
+}
 
-/*
-* 톱다운 방식
+
+//톱다운 방식
 int fibo(int num) {
 	if (arr[num] != -1) return arr[num];
 	return arr[num] = fibo(num - 1) + fibo(num - 2);
@@ -50,4 +50,4 @@ int main() {
 	cout << fibo(n);
 
 	return 0;
-}*/
+}

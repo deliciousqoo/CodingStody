@@ -303,9 +303,6 @@
     <ClCompile Include="pg_sort_3.cpp">
       <Filter>소스 파일\Algorithm\Sort</Filter>
     </ClCompile>
-    <ClCompile Include="bj_10026.cpp">
-      <Filter>소스 파일\Algorithm\Search\DFS</Filter>
-    </ClCompile>
     <ClCompile Include="bj_13549.cpp">
       <Filter>소스 파일\Algorithm\Dijkstra</Filter>
     </ClCompile>
@@ -590,6 +587,15 @@
     </ClCompile>
     <ClCompile Include="bj_11053.cpp">
       <Filter>소스 파일\Algorithm\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_10026.cpp">
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2468.cpp">
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_7576.cpp">
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
