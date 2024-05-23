@@ -3,44 +3,319 @@
   "WorkspaceRootPath": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2468.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2468.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_10026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2110.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2110.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_bfs_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_bfs_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_bfs_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_bfs_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_10026.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1764.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1764.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1439.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1439.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1259.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1259.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1100.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1100.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1032.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1032.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11478.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_11478.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11656.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_11656.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1005.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1005.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1197.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1197.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10610.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_10610.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4963.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_4963.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2468.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2468.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_7569.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_7569.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2178.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2178.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1167.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1167.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1238.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1238.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_18352.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_18352.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1753.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1753.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1854.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1854.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5719.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_5719.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13549.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_13549.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dijkstra_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_dijkstra_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1931.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1931.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1916.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1916.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2750.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2750.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1647.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1647.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11286.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_11286.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_dfs_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13023.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_13023.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_tree_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_tree_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1922.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1922.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_4386.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_mst_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_mst_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1068.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1068.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9372.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_9372.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1260.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1260.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1167.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1167.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_bfs_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_bfs_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1991.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1991.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2747.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2747.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2470.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2470.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1766.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1766.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9252.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_9252.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2110.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2110.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2252.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2252.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1181.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1181.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2473.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2473.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2512.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2512.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12738.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_12738.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12015.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_12015.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1072.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1072.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1253.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1253.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14003.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_14003.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1300.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1300.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2467.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2467.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2343.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2343.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10844.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_10844.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10816.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_10816.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13398.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_13398.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1920.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1920.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1806.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1806.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2003.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2003.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2559.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2559.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_3273.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_3273.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11721.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_11721.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9093.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_9093.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2754.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2754.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5430.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_5430.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10953.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_10953.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10808.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_10808.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11719.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_11719.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9251.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_9251.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2744.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2744.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\20240110.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\20240110.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_7576.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_etc_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_etc_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1735.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -49,10 +324,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2023.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2023.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13023.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_13023.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11053.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -99,10 +370,6 @@
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_11866.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2747.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2747.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_24416.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_24416.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -123,36 +390,12 @@
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2193.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10844.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_10844.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13398.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_13398.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9252.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_9252.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1920.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1920.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11722.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_11722.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_dp_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2343.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2343.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10816.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_10816.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -182,32 +425,12 @@
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_dfs_6.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_tree_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_tree_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dijkstra_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_dijkstra_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_17298.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_17298.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1300.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1300.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2263.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_2263.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1068.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1068.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1991.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1991.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11725.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -220,18 +443,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5639.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_5639.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_etc_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\pg_etc_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13549.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_13549.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1916.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|solutionrelative:Coding_Study\\bj_1916.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEBB11C3-8B6A-4EA2-8BB4-04CDEBA9D3D6}|Coding_Study\\Coding_Study.vcxproj|C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -257,31 +468,195 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "bj_7576.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_7576.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_7576.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_7576.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_7576.cpp",
-              "ViewState": "AQIAABcAAAAAAAAAAAAAACUAAAAGAAAA",
+              "Title": "pg_test.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_test.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_test.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_test.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_test.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAC0AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-16T10:50:29.653Z",
+              "WhenOpened": "2024-05-21T18:21:52.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bj_1764.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1764.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1764.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1764.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1764.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T15:51:26.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bj_1100.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1100.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1100.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1100.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1100.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T11:40:15.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bj_1259.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1259.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1259.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1259.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1259.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T19:29:19.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bj_10026.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10026.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_10026.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10026.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_10026.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T09:31:45.569Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "pg_bfs_2.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_bfs_2.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_bfs_2.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_bfs_2.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_bfs_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T03:08:44.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "bj_1032.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1032.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1032.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1032.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1032.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T11:34:02.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "bj_11478.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11478.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11478.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11478.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11478.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T07:11:10.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "bj_1439.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1439.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1439.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1439.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1439.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwBgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T11:46:56.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bj_1005.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1005.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1005.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1005.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1005.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T02:13:52.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bj_1197.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1197.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1197.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1197.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1197.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T12:08:26.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bj_10610.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10610.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_10610.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10610.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_10610.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T13:24:05.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bj_4963.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4963.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_4963.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4963.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_4963.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T06:13:06.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bj_11656.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11656.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11656.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11656.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11656.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T06:30:51.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "bj_2468.cpp",
               "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2468.cpp",
               "RelativeDocumentMoniker": "Coding_Study\\bj_2468.cpp",
               "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2468.cpp",
               "RelativeToolTip": "Coding_Study\\bj_2468.cpp",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowFYAAAABAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-16T10:24:26.538Z"
+              "WhenOpened": "2024-04-16T10:24:26.538Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "bj_2178.cpp",
               "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2178.cpp",
               "RelativeDocumentMoniker": "Coding_Study\\bj_2178.cpp",
@@ -293,19 +668,303 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "pg_bfs_2.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_bfs_2.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\pg_bfs_2.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_bfs_2.cpp",
-              "RelativeToolTip": "Coding_Study\\pg_bfs_2.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-13T03:08:44.279Z"
+              "DocumentIndex": 17,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.39.33519\\include\\vector",
+              "ViewState": "AQIAAFgHAAAAAAAAAIAwwGQHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-21T01:50:16.288Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
+              "Title": "bj_1753.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1753.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1753.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1753.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1753.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T03:29:49.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "bj_7569.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_7569.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_7569.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_7569.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_7569.cpp",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T05:58:33.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bj_5719.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5719.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_5719.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5719.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_5719.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAABBwBEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T10:55:05.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "bj_1238.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1238.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1238.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1238.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1238.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T04:15:22.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bj_1854.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1854.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1854.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1854.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1854.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T03:29:48.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "bj_18352.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_18352.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_18352.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_18352.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_18352.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwBUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T03:06:55.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "bj_1916.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1916.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1916.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1916.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1916.cpp",
+              "ViewState": "AQIAABYAAAAAAAAAAABBwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T03:08:44.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "bj_1931.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1931.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1931.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1931.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1931.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwBQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T02:41:38.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "bj_13549.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13549.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_13549.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13549.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_13549.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAABBwDQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T10:20:16.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "pg_dijkstra_1.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dijkstra_1.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_dijkstra_1.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dijkstra_1.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_dijkstra_1.cpp",
+              "ViewState": "AQIAAD0AAAAAAAAAAABBwBUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T10:16:42.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "bj_2750.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2750.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2750.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2750.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2750.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T02:41:39.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "bj_4386.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4386.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_4386.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4386.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_4386.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAABBwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T20:09:01.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "pg_dfs_1.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_1.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_dfs_1.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_1.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_dfs_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T02:04:51.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "pg_mst_1.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_mst_1.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_mst_1.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_mst_1.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_mst_1.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAABBwA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T21:14:17.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "bj_1647.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1647.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1647.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1647.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1647.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T14:16:39.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "bj_11286.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11286.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11286.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11286.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11286.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-21T02:05:20.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "pg_tree_1.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_tree_1.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_tree_1.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_tree_1.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_tree_1.cpp",
+              "ViewState": "AQIAAAcAAAAAAAAAAABBwBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T03:07:06.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "bj_13023.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13023.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_13023.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13023.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_13023.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T09:34:21.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "bj_1922.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1922.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1922.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1922.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1922.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAIBJwEoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T14:00:10.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "bj_1167.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1167.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1167.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1167.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1167.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T10:03:14.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "bj_1068.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1068.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1068.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1068.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1068.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T04:52:39.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "bj_1260.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1260.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1260.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1260.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1260.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T09:45:08.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "bj_9372.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9372.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_9372.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9372.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_9372.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T19:33:13.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "pg_bfs_1.cpp",
               "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_bfs_1.cpp",
               "RelativeDocumentMoniker": "Coding_Study\\pg_bfs_1.cpp",
@@ -317,307 +976,169 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "bj_10026.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10026.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_10026.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10026.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_10026.cpp",
-              "ViewState": "AQIAADEAAAAAAAAAAAAowFcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-16T09:31:45.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "bj_2110.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2110.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_2110.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2110.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_2110.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-10T16:30:14.222Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "bj_1167.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1167.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_1167.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1167.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_1167.cpp",
+              "DocumentIndex": 41,
+              "Title": "bj_1991.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1991.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1991.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1991.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1991.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-16T10:03:14.563Z"
+              "WhenOpened": "2024-03-11T05:17:23.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "bj_1260.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1260.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_1260.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1260.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_1260.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 44,
+              "Title": "bj_1766.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1766.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1766.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1766.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1766.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-16T09:45:08.518Z"
+              "WhenOpened": "2024-05-20T09:58:05.218Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "bj_2023.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2023.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_2023.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2023.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_2023.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-16T09:32:58.487Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "bj_1735.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1735.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_1735.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1735.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_1735.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T03:16:33.011Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "bj_13023.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13023.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_13023.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13023.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_13023.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-16T09:34:21.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "bj_12015.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12015.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_12015.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12015.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_12015.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T05:05:33.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "pg_dfs_3.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_3.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\pg_dfs_3.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_3.cpp",
-              "RelativeToolTip": "Coding_Study\\pg_dfs_3.cpp",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-16T09:33:04.012Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "bj_11724.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11724.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_11724.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11724.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_11724.cpp",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-04-16T09:33:01.438Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "bj_11053.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11053.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_11053.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11053.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_11053.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-27T13:34:12.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "bj_28278.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_28278.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_28278.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_28278.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_28278.cpp",
-              "ViewState": "AQIAABkAAAAAAAAAAAAUwD4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-18T13:39:02.854Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "bj_28279.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_28279.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_28279.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_28279.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_28279.cpp",
-              "ViewState": "AQIAACIAAAAAAAAAAAAUwEcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T10:04:38.893Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "bj_2346.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2346.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_2346.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2346.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_2346.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAUwDQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T10:33:29.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "bj_12789.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12789.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_12789.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12789.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_12789.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAUwDQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-21T14:31:34.166Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "bj_24511.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_24511.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_24511.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_24511.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_24511.cpp",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T11:40:37.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "bj_4949.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4949.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_4949.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4949.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_4949.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAUwDEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-18T14:24:29.325Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "bj_18258.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_18258.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_18258.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_18258.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_18258.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADYAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T09:39:03.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "bj_11866.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11866.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_11866.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11866.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_11866.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAUwDEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-25T09:48:24.366Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 42,
               "Title": "bj_2747.cpp",
               "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2747.cpp",
               "RelativeDocumentMoniker": "Coding_Study\\bj_2747.cpp",
               "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2747.cpp",
               "RelativeToolTip": "Coding_Study\\bj_2747.cpp",
-              "ViewState": "AQIAABUAAAAAAAAAAAAUwCQAAAAlAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAUwCwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-03-11T06:07:51.567Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "bj_24416.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_24416.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_24416.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_24416.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_24416.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAUwC4AAAABAAAA",
+              "DocumentIndex": 46,
+              "Title": "bj_2110.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2110.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2110.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2110.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2110.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T03:55:14.921Z"
+              "WhenOpened": "2024-03-10T16:30:14.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "bj_14501.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14501.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_14501.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14501.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_14501.cpp",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCoAAAABAAAA",
+              "DocumentIndex": 50,
+              "Title": "bj_2512.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2512.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2512.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2512.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2512.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T06:24:29.349Z"
+              "WhenOpened": "2024-05-19T19:10:10.397Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "bj_1463.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1463.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_1463.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1463.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_1463.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "DocumentIndex": 43,
+              "Title": "bj_2470.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2470.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2470.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2470.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2470.cpp",
+              "ViewState": "AQIAABAAAAAAAAAAAEBVwCkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T06:18:02.515Z"
+              "WhenOpened": "2024-05-19T21:30:49.421Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "bj_11726.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11726.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_11726.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11726.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_11726.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "DocumentIndex": 45,
+              "Title": "bj_9252.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9252.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_9252.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9252.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_9252.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T08:23:49.845Z"
+              "WhenOpened": "2024-03-11T13:39:02.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "bj_2193.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2193.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_2193.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2193.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_2193.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "DocumentIndex": 52,
+              "Title": "bj_12015.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12015.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_12015.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12015.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_12015.cpp",
+              "ViewState": "AQIAAG4AAAAAAAAAAABRwHEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T08:14:10.153Z"
+              "WhenOpened": "2024-03-11T05:05:33.862Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 53,
+              "Title": "bj_1072.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1072.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1072.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1072.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1072.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T22:22:23.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "bj_12738.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12738.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_12738.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12738.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_12738.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T00:34:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "bj_2473.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2473.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2473.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2473.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2473.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T00:53:38.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "bj_2252.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2252.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2252.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2252.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2252.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T01:54:45.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "bj_1181.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1181.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1181.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1181.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1181.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-20T01:55:00.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
               "Title": "bj_10844.cpp",
               "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10844.cpp",
               "RelativeDocumentMoniker": "Coding_Study\\bj_10844.cpp",
@@ -625,11 +1146,88 @@
               "RelativeToolTip": "Coding_Study\\bj_10844.cpp",
               "ViewState": "AQIAAAgAAAAAAAAAAAAUwC0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T08:58:24.754Z"
+              "WhenOpened": "2024-03-11T08:58:24.754Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 54,
+              "Title": "bj_1253.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1253.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1253.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1253.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1253.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T21:48:46.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "bj_14003.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14003.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_14003.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14003.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_14003.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T22:20:37.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "bj_2343.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2343.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2343.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2343.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2343.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T02:54:24.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "bj_1300.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1300.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1300.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1300.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1300.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-15T02:54:28.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "bj_2467.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2467.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2467.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2467.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2467.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T21:46:51.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "bj_10816.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10816.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_10816.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10816.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_10816.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-10T17:52:13.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
               "Title": "bj_13398.cpp",
               "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13398.cpp",
               "RelativeDocumentMoniker": "Coding_Study\\bj_13398.cpp",
@@ -641,19 +1239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "bj_9252.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9252.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_9252.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9252.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_9252.cpp",
-              "ViewState": "AQIAACMAAAAAAAAAAAAUwEgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T13:39:02.986Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 62,
               "Title": "bj_1920.cpp",
               "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1920.cpp",
               "RelativeDocumentMoniker": "Coding_Study\\bj_1920.cpp",
@@ -661,263 +1247,198 @@
               "RelativeToolTip": "Coding_Study\\bj_1920.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-13T03:08:44.406Z"
+              "WhenOpened": "2024-03-13T03:08:44.406Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "bj_11722.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11722.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_11722.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11722.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_11722.cpp",
+              "DocumentIndex": 63,
+              "Title": "bj_1806.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1806.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1806.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1806.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1806.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-19T18:06:33.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "bj_2003.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2003.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2003.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2003.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2003.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T04:49:55.027Z"
+              "WhenOpened": "2024-05-19T14:09:14.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "pg_dp_1.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_1.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\pg_dp_1.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_1.cpp",
-              "RelativeToolTip": "Coding_Study\\pg_dp_1.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "DocumentIndex": 65,
+              "Title": "bj_2559.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2559.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2559.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2559.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2559.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAABRwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T15:45:37.172Z"
+              "WhenOpened": "2024-05-19T15:03:28.877Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "bj_2343.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2343.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_2343.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2343.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_2343.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAABAAAA",
+              "DocumentIndex": 66,
+              "Title": "bj_3273.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_3273.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_3273.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_3273.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_3273.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-15T02:54:24.906Z"
+              "WhenOpened": "2024-05-19T16:01:20.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "bj_10816.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10816.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_10816.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10816.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_10816.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAABAAAA",
+              "DocumentIndex": 70,
+              "Title": "bj_5430.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5430.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_5430.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5430.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_5430.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-10T17:52:13.254Z"
+              "WhenOpened": "2024-05-18T22:22:34.822Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "pg_dp_2.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_2.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\pg_dp_2.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_2.cpp",
-              "RelativeToolTip": "Coding_Study\\pg_dp_2.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "DocumentIndex": 67,
+              "Title": "bj_11721.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11721.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11721.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11721.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11721.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-12T17:16:17.398Z"
+              "WhenOpened": "2024-05-18T19:25:19.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "pg_dp_3.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_3.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\pg_dp_3.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_3.cpp",
-              "RelativeToolTip": "Coding_Study\\pg_dp_3.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAC4AAAAVAAAA",
+              "DocumentIndex": 68,
+              "Title": "bj_9093.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9093.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_9093.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9093.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_9093.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAABRwAgAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-12T17:42:58.347Z"
+              "WhenOpened": "2024-05-19T13:55:04.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "bj_13241.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13241.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_13241.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13241.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_13241.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "DocumentIndex": 69,
+              "Title": "bj_2754.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2754.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2754.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2754.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2754.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-26T03:13:07.172Z"
+              "WhenOpened": "2024-05-18T22:16:30.435Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "bj_1967.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1967.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_1967.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1967.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_1967.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAgAAAA",
+              "DocumentIndex": 72,
+              "Title": "bj_10808.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10808.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_10808.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10808.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_10808.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T05:17:35.365Z"
+              "WhenOpened": "2024-05-18T19:50:57.319Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "vector",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector",
-              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector",
-              "ViewState": "AQIAAEwHAAAAAAAAAAAvwFoHAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-03-12T13:46:04.738Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "bj_4803.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4803.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_4803.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4803.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_4803.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "DocumentIndex": 73,
+              "Title": "bj_11719.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11719.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11719.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11719.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11719.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T05:17:42.309Z"
+              "WhenOpened": "2024-05-18T19:44:30.137Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "pg_dfs_6.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_6.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\pg_dfs_6.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_6.cpp",
-              "RelativeToolTip": "Coding_Study\\pg_dfs_6.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "DocumentIndex": 71,
+              "Title": "bj_10953.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10953.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_10953.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_10953.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_10953.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAEBVwBoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-13T09:14:13.255Z"
+              "WhenOpened": "2024-05-18T21:31:38.358Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "pg_tree_1.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_tree_1.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\pg_tree_1.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_tree_1.cpp",
-              "RelativeToolTip": "Coding_Study\\pg_tree_1.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAJAAAA",
+              "DocumentIndex": 74,
+              "Title": "bj_9251.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9251.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_9251.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_9251.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_9251.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-13T03:07:06.86Z"
+              "WhenOpened": "2024-05-18T20:29:39.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "pg_dijkstra_1.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dijkstra_1.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\pg_dijkstra_1.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dijkstra_1.cpp",
-              "RelativeToolTip": "Coding_Study\\pg_dijkstra_1.cpp",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAABUAAAALAAAA",
+              "DocumentIndex": 75,
+              "Title": "bj_2744.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2744.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2744.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2744.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2744.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-13T10:16:42.306Z"
+              "WhenOpened": "2024-05-18T22:12:00.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "bj_17298.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_17298.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_17298.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_17298.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_17298.cpp",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDMAAAABAAAA",
+              "DocumentIndex": 76,
+              "Title": "20240110.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\20240110.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\20240110.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\20240110.cpp",
+              "RelativeToolTip": "Coding_Study\\20240110.cpp",
+              "ViewState": "AQIAADQAAAAAAAAAAABBwEoAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-18T13:39:03.908Z"
+              "WhenOpened": "2024-05-18T16:08:29.495Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "bj_1300.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1300.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_1300.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1300.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_1300.cpp",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwCkAAAABAAAA",
+              "DocumentIndex": 77,
+              "Title": "bj_7576.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_7576.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_7576.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_7576.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_7576.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAmwC8AAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-15T02:54:28.089Z"
+              "WhenOpened": "2024-04-16T10:50:29.653Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "bj_2263.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2263.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_2263.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2263.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_2263.cpp",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T04:52:39.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "bj_1068.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1068.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_1068.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1068.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_1068.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T04:52:39.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "bj_1991.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1991.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_1991.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1991.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_1991.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwCwAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T05:17:23.195Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "bj_11725.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11725.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_11725.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11725.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_11725.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T04:52:39.269Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "bj_14425.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14425.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_14425.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14425.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_14425.cpp",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCQAAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T05:17:27.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "bj_5639.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5639.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_5639.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5639.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_5639.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBYAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-11T04:52:39.296Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 78,
               "Title": "pg_etc_1.cpp",
               "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_etc_1.cpp",
               "RelativeDocumentMoniker": "Coding_Study\\pg_etc_1.cpp",
@@ -929,7 +1450,402 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 80,
+              "Title": "bj_2023.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2023.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2023.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2023.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2023.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T09:32:58.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "bj_1735.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1735.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1735.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1735.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1735.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T03:16:33.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "pg_dfs_3.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_3.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_dfs_3.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_3.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_dfs_3.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAEBVwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T09:33:04.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "bj_11724.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11724.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11724.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11724.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11724.cpp",
+              "ViewState": "AQIAAC8AAAAAAAAAAABRwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T09:33:01.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "bj_11053.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11053.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11053.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11053.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11053.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-27T13:34:12.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "bj_28278.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_28278.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_28278.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_28278.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_28278.cpp",
+              "ViewState": "AQIAABkAAAAAAAAAAAAUwD4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T13:39:02.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "bj_28279.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_28279.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_28279.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_28279.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_28279.cpp",
+              "ViewState": "AQIAACIAAAAAAAAAAAAUwEcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T10:04:38.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "bj_2346.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2346.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2346.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2346.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2346.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T10:33:29.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "bj_12789.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12789.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_12789.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_12789.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_12789.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAUwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-21T14:31:34.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "bj_24511.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_24511.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_24511.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_24511.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_24511.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T11:40:37.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "bj_4949.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4949.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_4949.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4949.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_4949.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T14:24:29.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "bj_18258.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_18258.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_18258.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_18258.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_18258.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAEBVwDYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T09:39:03.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "bj_11866.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11866.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11866.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11866.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11866.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwDEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-25T09:48:24.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "bj_24416.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_24416.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_24416.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_24416.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_24416.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T03:55:14.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "bj_14501.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14501.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_14501.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14501.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_14501.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T06:24:29.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "bj_1463.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1463.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1463.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1463.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1463.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T06:18:02.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "bj_11726.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11726.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11726.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11726.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11726.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T08:23:49.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "bj_2193.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2193.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2193.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2193.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2193.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T08:14:10.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "bj_11722.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11722.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11722.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11722.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11722.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T04:49:55.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "pg_dp_1.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_1.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_dp_1.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_1.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_dp_1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T15:45:37.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "pg_dp_2.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_2.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_dp_2.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_2.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_dp_2.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T17:16:17.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "pg_dp_3.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_3.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_dp_3.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dp_3.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_dp_3.cpp",
+              "ViewState": "AQIAAAQAAAAAAAAAAEBVwC4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-12T17:42:58.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "bj_13241.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13241.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_13241.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13241.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_13241.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T03:13:07.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "bj_1967.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1967.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_1967.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1967.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_1967.cpp",
+              "ViewState": "AQIAAAoAAAAAAAAAAEBVwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T05:17:35.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\vector",
+              "ViewState": "AQIAAEwHAAAAAAAAAAAvwFoHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-03-12T13:46:04.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "bj_4803.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4803.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_4803.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_4803.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_4803.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T05:17:42.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "pg_dfs_6.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_6.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\pg_dfs_6.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_6.cpp",
+              "RelativeToolTip": "Coding_Study\\pg_dfs_6.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T09:14:13.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "bj_17298.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_17298.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_17298.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_17298.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_17298.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwDMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-18T13:39:03.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "bj_2263.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2263.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_2263.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_2263.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_2263.cpp",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T04:52:39.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "bj_11725.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11725.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_11725.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_11725.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_11725.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T04:52:39.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "bj_14425.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14425.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_14425.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_14425.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_14425.cpp",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T05:17:27.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "bj_5639.cpp",
+              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5639.cpp",
+              "RelativeDocumentMoniker": "Coding_Study\\bj_5639.cpp",
+              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_5639.cpp",
+              "RelativeToolTip": "Coding_Study\\bj_5639.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T04:52:39.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
               "Title": "pg_dfs_4.cpp",
               "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_4.cpp",
               "RelativeDocumentMoniker": "Coding_Study\\pg_dfs_4.cpp",
@@ -941,19 +1857,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "bj_13549.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13549.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_13549.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_13549.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_13549.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-13T10:20:16.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 112,
               "Title": "pg_dfs_5.cpp",
               "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\pg_dfs_5.cpp",
               "RelativeDocumentMoniker": "Coding_Study\\pg_dfs_5.cpp",
@@ -961,23 +1865,12 @@
               "RelativeToolTip": "Coding_Study\\pg_dfs_5.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-13T03:08:44.29Z"
+              "WhenOpened": "2024-03-13T03:08:44.29Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "bj_1916.cpp",
-              "DocumentMoniker": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1916.cpp",
-              "RelativeDocumentMoniker": "Coding_Study\\bj_1916.cpp",
-              "ToolTip": "C:\\Users\\JIHAN\\CodingStudy\\Coding_Study\\Coding_Study\\bj_1916.cpp",
-              "RelativeToolTip": "Coding_Study\\bj_1916.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-13T03:08:44.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 113,
               "Title": "string",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\string",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\string",

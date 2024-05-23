@@ -112,6 +112,18 @@
     <Filter Include="소스 파일\ETC\LevelStage\Level23">
       <UniqueIdentifier>{37cf5688-f831-47d3-a040-ebb34cb179fb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ETC\String">
+      <UniqueIdentifier>{1da7a332-a030-48bb-b8bc-0ab450c05371}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\ETC\TwoPointer">
+      <UniqueIdentifier>{aca601dc-d78a-4420-9d87-fa4954984363}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\Algorithm\Sort\TopologySort">
+      <UniqueIdentifier>{dd90c9d5-178c-40be-adc3-26fd7482402b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DataStructure\Tree\MST">
+      <UniqueIdentifier>{56288789-9edd-4203-8572-a5d086a23ff5}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -582,9 +594,6 @@
     <ClCompile Include="bj_11722.cpp">
       <Filter>소스 파일\Algorithm\DP</Filter>
     </ClCompile>
-    <ClCompile Include="bj_12015.cpp">
-      <Filter>소스 파일\Algorithm\DP</Filter>
-    </ClCompile>
     <ClCompile Include="bj_11053.cpp">
       <Filter>소스 파일\Algorithm\DP</Filter>
     </ClCompile>
@@ -595,6 +604,141 @@
       <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
     <ClCompile Include="bj_7576.cpp">
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1764.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11721.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1259.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11719.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_10808.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_9251.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_10953.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2744.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2754.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_5430.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1032.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1100.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1439.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_10610.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_9093.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2003.cpp">
+      <Filter>소스 파일\ETC\TwoPointer</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2559.cpp">
+      <Filter>소스 파일\ETC\TwoPointer</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_3273.cpp">
+      <Filter>소스 파일\ETC\TwoPointer</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1806.cpp">
+      <Filter>소스 파일\ETC\TwoPointer</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2512.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_12015.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2470.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2467.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1253.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_14003.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1072.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_12738.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2473.cpp">
+      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2252.cpp">
+      <Filter>소스 파일\Algorithm\Sort\TopologySort</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1005.cpp">
+      <Filter>소스 파일\Algorithm\Sort\TopologySort</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1766.cpp">
+      <Filter>소스 파일\Algorithm\Sort\TopologySort</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1197.cpp">
+      <Filter>소스 파일\DataStructure\Tree\MST</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1922.cpp">
+      <Filter>소스 파일\DataStructure\Tree\MST</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1647.cpp">
+      <Filter>소스 파일\DataStructure\Tree\MST</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_9372.cpp">
+      <Filter>소스 파일\DataStructure\Tree</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_4386.cpp">
+      <Filter>소스 파일\DataStructure\Tree\MST</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_mst_1.cpp">
+      <Filter>소스 파일\DataStructure\Tree\MST</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1931.cpp">
+      <Filter>소스 파일\Algorithm\Sort</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_18352.cpp">
+      <Filter>소스 파일\Algorithm\Dijkstra</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1238.cpp">
+      <Filter>소스 파일\Algorithm\Dijkstra</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_7569.cpp">
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_4963.cpp">
+      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11656.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11478.cpp">
+      <Filter>소스 파일\ETC\String</Filter>
+    </ClCompile>
+    <ClCompile Include="pg_test.cpp">
       <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
   </ItemGroup>

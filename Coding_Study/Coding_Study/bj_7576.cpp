@@ -55,37 +55,9 @@ int main() {
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	cin >> M >> N;
-
-	arr.resize(N);
-	for (int i = 0; i < N; i++) {
-		arr[i].resize(M);
+	for (int i = 0; i < 10; ++i) {
+		cout << i;
 	}
-
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < M; j++) {
-			cin >> arr[i][j];
-		}
-	}
-
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < M; j++) {
-			if (arr[i][j] == 1) {
-				BFS(make_pair(i, j));
-			}
-		}
-	}
-	
-	int max_value = -1, check = 0;
-	for (int i = 0; i < N; i++) {
-		for (int j = 0; j < M; j++) {
-			max_value = max(max_value, arr[i][j]);
-			if (arr[i][j] == 0) check = 1;
-		}
-	}
-
-	if (check == 0) cout << max_value - 1;
-	else if (check == 1) cout << -1;
 
 	return 0;
 }

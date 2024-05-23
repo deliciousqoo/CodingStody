@@ -1,8 +1,9 @@
 /*
 * 백준12015 가장 긴 증가하는 부분 수열 2
 * 동적계획법, 이분탐색
-* 20240311
+* 20240520
 */
+/*
 #include <iostream>
 #include <algorithm>
 #include <vector>
@@ -48,17 +49,66 @@ int main() {
 	
 	int max_value = -1;
 	for (int i = 1; i <= N; i++) {
-		/*
-		for (int j = 1; j < i; j++) {
-			if (arr[i] > arr[j]) {
-				dp[i] = max(dp[i], dp[j] + 1);
-			}
-		}*/
 		dp[i] = max(dp[i], dp[Binary_Search(1, i-1, arr[i])] + 1);
 		max_value = max(dp[i], max_value);
 	}
 
 	cout << max_value;
+
+	return 0;
+}*/
+
+#include <iostream>
+#include <algorithm>
+#include <vector>
+
+using namespace std;
+
+int arr[1000001];
+vector<int> ans;
+
+int Binary_Search(int target)
+{
+	int left = 0;
+	int right = ans.size()-1;
+	int mid;
+	while (left < right)
+	{
+		mid = (left + right) / 2;
+		if (target <= ans[mid])
+		{
+			right = mid;
+		}
+		else
+		{
+			left = mid + 1;
+		}
+	}
+
+	return right;
+}
+
+int main()
+{
+	int N;
+	cin >> N;
+
+	for (int i = 0; i < N; i++)
+	{
+		cin >> arr[i];
+	}
+	
+	ans.push_back(arr[0]);
+	for (int i = 1; i < N; i++)
+	{
+		if (ans[ans.size() - 1] < arr[i]) ans.push_back(arr[i]);
+		else
+		{
+			ans[Binary_Search(arr[i])] = arr[i];
+		}
+	}
+
+	cout << ans.size();
 
 	return 0;
 }
