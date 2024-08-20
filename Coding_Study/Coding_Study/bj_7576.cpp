@@ -1,63 +1,85 @@
 /*
-* 백준7576 토마토
-* BFS
-* 20240416
+* 백준 7576 - 토마토
+* 20240816
 */
 #include <iostream>
-#include <algorithm>
 #include <vector>
 #include <queue>
-#include <limits.h>
 
 using namespace std;
 
 typedef pair<int, int> p;
-int dx[4] = { 1, 0, -1, 0 };
-int dy[4] = { 0, 1, 0, -1 };
-int N, M, ans;
-
 vector<vector<int>> arr;
+int dx[4] = {1, 0, -1, 0};
+int dy[4] = {0, 1, 0, -1};
+int N, M;
+queue<p> q;
 
-void BFS(p start) {
-	queue<p> myQueue;
-	myQueue.push(start);
+void BFS()
+{
+	while (!q.empty())
+	{
+		int cur_y = q.front().first;
+		int cur_x = q.front().second;
+		q.pop();
 
-	while (!myQueue.empty()) {
-		int cur_y = myQueue.front().first;
-		int cur_x = myQueue.front().second;
-		myQueue.pop();
-
-		for (int i = 0; i < 4; i++) {
+		for (int i = 0; i < 4; i++)
+		{
 			int y = cur_y + dy[i];
 			int x = cur_x + dx[i];
-			if (x >= 0 && x < M && y >= 0 && y < N) {
-				if (arr[y][x] != -1) {
-					if (arr[y][x] == 0) {
-						myQueue.push(make_pair(y, x));
-						arr[y][x] = arr[cur_y][cur_x] + 1;
-					}
-					else
-					{
-						if (arr[y][x] > arr[cur_y][cur_x] + 1) {
-							myQueue.push(make_pair(y, x));
-							arr[y][x] = arr[cur_y][cur_x] + 1;
-						}
-					}
+
+			if (y >= 0 && y < N && x >= 0 && x < M)
+			{
+				if (arr[y][x] == 0)
+				{
+					arr[y][x] = arr[cur_y][cur_x] + 1;
+					q.push(make_pair(y, x));
 				}
 			}
 		}
 	}
 }
 
-int main() {
 
+int main()
+{
 	ios::sync_with_stdio(false);
 	cin.tie(NULL);
 	cout.tie(NULL);
 
-	for (int i = 0; i < 10; ++i) {
-		cout << i;
+	cin >> M >> N;
+
+	arr.resize(N, vector<int>(M, 0));
+
+	for (int i = 0; i < N; i++)
+	{
+		for (int j = 0; j < M; j++)
+		{
+			cin >> arr[i][j];
+			if (arr[i][j] == 1) q.push(make_pair(i, j));
+		}
 	}
+
+	BFS();
+
+	int ans = -1;
+	bool check = false;
+	for (int i = 0; i < N; i++)
+	{
+		for (int j = 0; j < M; j++)
+		{
+			if (arr[i][j] == 0)
+			{
+				check = true;
+				break;
+			}
+			ans = max(arr[i][j], ans);
+		}
+		if (check) break;
+	}
+
+	if (check) cout << -1;
+	else cout << ans - 1;
 
 	return 0;
 }

@@ -19,7 +19,6 @@ int main()
 	cin >> N >> M;
 
 	map<string, int> m;
-	map<string, int>::iterator iter;
 
 	string temp;
 	for (int i = 0; i < N+M; i++)
@@ -30,7 +29,7 @@ int main()
 	}
 	
 	cout << count << '\n';
-	for (iter = m.begin(); iter != m.end(); iter++)
+	for (auto iter = m.begin(); iter != m.end(); iter++)
 	{
 		if (iter->second == 2) cout << iter->first << '\n';
 	}

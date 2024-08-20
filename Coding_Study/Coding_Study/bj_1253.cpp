@@ -1,7 +1,7 @@
 /*
-* 백준1253
-* 이분탐색
-* 20240520
+* 백준1940
+* 투포인터
+* 20240701
 */
 #include <iostream>
 #include <vector>
@@ -12,42 +12,50 @@ vector<int> arr;
 
 bool TwoPointer(int target)
 {
-	int left = 0;
-	int right = arr.size() - 1;
+	int start = 0;
+	int end = arr.size() - 1;
 	int temp = 0;
-	while (left < right)
+
+	while (start < end)
 	{
-		if (left == target)
+		if (start == target)
 		{
-			left++;
+			start++;
 			continue;
 		}
-		if (right == target)
+		if (end == target)
 		{
-			right--;
+			end--;
 			continue;
 		}
 
-		temp = arr[left] + arr[right];
-		if (temp > arr[target]) right--;
-		else if (temp < arr[target]) left++;
+		temp = arr[start] + arr[end];
+		if (temp > arr[target]) end--;
+		else if (temp < arr[target]) start++;
 		else return true;
 	}
+
 	return false;
 }
 
 int main()
 {
+	ios::sync_with_stdio(false);
+	cin.tie(NULL);
+	cout.tie(NULL);
+
 	int N;
 	cin >> N;
-	
-	arr.resize(N);
 
-	for (int i = 0; i < N; i++)	cin >> arr[i];
+	arr.resize(N, 0);
+	for (int i = 0; i < N; i++)
+	{
+		cin >> arr[i];
+	}
 	sort(arr.begin(), arr.end());
 
 	int count = 0;
-	for (int i = 0; i < arr.size(); i++)
+	for (int i = 0; i < N; i++)
 	{
 		if (TwoPointer(i)) count++;
 	}

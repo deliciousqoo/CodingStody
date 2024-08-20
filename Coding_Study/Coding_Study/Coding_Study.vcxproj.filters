@@ -124,6 +124,42 @@
     <Filter Include="소스 파일\DataStructure\Tree\MST">
       <UniqueIdentifier>{56288789-9edd-4203-8572-a5d086a23ff5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\ETC\SlidingWindow">
+      <UniqueIdentifier>{5855f87c-0191-472e-bbd1-d9c2691579ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog">
+      <UniqueIdentifier>{b11fbc0e-1b3e-4adf-b5ce-a610532e503e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog\0x01">
+      <UniqueIdentifier>{55556b7f-b134-4f57-a86a-4a4a383f84cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog\0x03">
+      <UniqueIdentifier>{45614f31-4d06-47bd-bad1-545c63906398}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog\0x04">
+      <UniqueIdentifier>{41a4faf9-b3b7-4cd4-8650-593060fd7e5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog\0x05">
+      <UniqueIdentifier>{6579b9c7-0fa6-495e-be19-58b2b743932d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog\0x06">
+      <UniqueIdentifier>{f2367f03-6a37-4f6f-85e4-e26f081adc8d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog\0x08">
+      <UniqueIdentifier>{fb893616-b152-41d0-8f11-2d140b7865a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog\0x09">
+      <UniqueIdentifier>{3cc1eb4e-eaa6-421e-8833-fb515429f060}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog\0x0A">
+      <UniqueIdentifier>{c52a7856-bee1-430d-b632-8a6bc8cdc7b9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog\0x0B">
+      <UniqueIdentifier>{797ef43a-5e5d-4de2-9cdf-fc2e4e952c76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\BarkingDog\0x0C">
+      <UniqueIdentifier>{bce6eff6-9d58-4d01-888a-a9a22a050fa0}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -603,9 +639,6 @@
     <ClCompile Include="bj_2468.cpp">
       <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
-    <ClCompile Include="bj_7576.cpp">
-      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="bj_1764.cpp">
       <Filter>소스 파일\ETC\String</Filter>
     </ClCompile>
@@ -675,9 +708,6 @@
     <ClCompile Include="bj_2467.cpp">
       <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
     </ClCompile>
-    <ClCompile Include="bj_1253.cpp">
-      <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
-    </ClCompile>
     <ClCompile Include="bj_14003.cpp">
       <Filter>소스 파일\Algorithm\Search\BinarySearch</Filter>
     </ClCompile>
@@ -726,9 +756,6 @@
     <ClCompile Include="bj_1238.cpp">
       <Filter>소스 파일\Algorithm\Dijkstra</Filter>
     </ClCompile>
-    <ClCompile Include="bj_7569.cpp">
-      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
-    </ClCompile>
     <ClCompile Include="bj_4963.cpp">
       <Filter>소스 파일\Algorithm\Search\BFS</Filter>
     </ClCompile>
@@ -738,8 +765,137 @@
     <ClCompile Include="bj_11478.cpp">
       <Filter>소스 파일\ETC\String</Filter>
     </ClCompile>
-    <ClCompile Include="pg_test.cpp">
-      <Filter>소스 파일\Algorithm\Search\BFS</Filter>
+    <ClCompile Include="bj_2018.cpp">
+      <Filter>소스 파일\ETC\TwoPointer</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1940.cpp">
+      <Filter>소스 파일\ETC\TwoPointer</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1253.cpp">
+      <Filter>소스 파일\ETC\TwoPointer</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_12891.cpp">
+      <Filter>소스 파일\ETC\SlidingWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11003.cpp">
+      <Filter>소스 파일\ETC\SlidingWindow</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11659.cpp">
+      <Filter>소스 파일\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11660.cpp">
+      <Filter>소스 파일\ETC</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2752.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2490.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2576.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1267.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_10804.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2440.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2441.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2442.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2443.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2445.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2446.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2309.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_10093.cpp">
+      <Filter>소스 파일\BarkingDog\0x01</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_10845.cpp">
+      <Filter>소스 파일\BarkingDog\0x03</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1021.cpp">
+      <Filter>소스 파일\BarkingDog\0x03</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_10799.cpp">
+      <Filter>소스 파일\BarkingDog\0x04</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2504.cpp">
+      <Filter>소스 파일\BarkingDog\0x04</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2493.cpp">
+      <Filter>소스 파일\BarkingDog\0x04</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1926.cpp">
+      <Filter>소스 파일\BarkingDog\0x05</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1697.cpp">
+      <Filter>소스 파일\BarkingDog\0x05</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_7576.cpp">
+      <Filter>소스 파일\BarkingDog\0x05</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_7569.cpp">
+      <Filter>소스 파일\BarkingDog\0x05</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_9466.cpp">
+      <Filter>소스 파일\BarkingDog\0x05</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1074.cpp">
+      <Filter>소스 파일\BarkingDog\0x06</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_11931.cpp">
+      <Filter>소스 파일\BarkingDog\0x08</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_15688.cpp">
+      <Filter>소스 파일\BarkingDog\0x08</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_10867.cpp">
+      <Filter>소스 파일\BarkingDog\0x08</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_4179.cpp">
+      <Filter>소스 파일\BarkingDog\0x09</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_7562.cpp">
+      <Filter>소스 파일\BarkingDog\0x09</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_5427.cpp">
+      <Filter>소스 파일\BarkingDog\0x09</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2583.cpp">
+      <Filter>소스 파일\BarkingDog\0x09</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2457.cpp">
+      <Filter>소스 파일\BarkingDog\0x0A</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1543.cpp">
+      <Filter>소스 파일\BarkingDog\0x0A</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_2012.cpp">
+      <Filter>소스 파일\BarkingDog\0x0A</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_6064.cpp">
+      <Filter>소스 파일\BarkingDog\0x0B</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1676.cpp">
+      <Filter>소스 파일\BarkingDog\0x0B</Filter>
+    </ClCompile>
+    <ClCompile Include="bj_1822.cpp">
+      <Filter>소스 파일\BarkingDog\0x0C</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
