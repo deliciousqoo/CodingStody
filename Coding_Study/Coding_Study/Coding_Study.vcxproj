@@ -262,7 +262,9 @@
     <ClCompile Include="bj_1676.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="bj_1822.cpp" />
+    <ClCompile Include="bj_1822.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="bj_2012.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
@@ -800,6 +802,11 @@
     <ClCompile Include="CompareResizeFill.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="Nexon1.cpp" />
+    <ClCompile Include="Nexon2.cpp" />
+    <ClCompile Include="Nexon3.cpp" />
+    <ClCompile Include="Nexon4.cpp" />
+    <ClCompile Include="Nexon5.cpp" />
     <ClCompile Include="pg_bfs_1.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>

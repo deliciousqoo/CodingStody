@@ -160,6 +160,9 @@
     <Filter Include="소스 파일\BarkingDog\0x0C">
       <UniqueIdentifier>{bce6eff6-9d58-4d01-888a-a9a22a050fa0}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\Nexon">
+      <UniqueIdentifier>{743a7649-b07f-4f33-82e3-c9928b9187ec}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="20230619.cpp">
@@ -896,6 +899,21 @@
     </ClCompile>
     <ClCompile Include="bj_1822.cpp">
       <Filter>소스 파일\BarkingDog\0x0C</Filter>
+    </ClCompile>
+    <ClCompile Include="Nexon1.cpp">
+      <Filter>소스 파일\Nexon</Filter>
+    </ClCompile>
+    <ClCompile Include="Nexon2.cpp">
+      <Filter>소스 파일\Nexon</Filter>
+    </ClCompile>
+    <ClCompile Include="Nexon3.cpp">
+      <Filter>소스 파일\Nexon</Filter>
+    </ClCompile>
+    <ClCompile Include="Nexon4.cpp">
+      <Filter>소스 파일\Nexon</Filter>
+    </ClCompile>
+    <ClCompile Include="Nexon5.cpp">
+      <Filter>소스 파일\Nexon</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
